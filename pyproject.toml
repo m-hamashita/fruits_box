@@ -10,6 +10,7 @@ packages = [{include = "fruits_box"}]
 python = "^3.10"
 opencv-contrib-python = "^4.7.0.68"
 numpy = "^1.24.1"
+matplotlib = "^3.6.3"
 
 
 [tool.poetry.group.dev.dependencies]
